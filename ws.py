@@ -23,7 +23,7 @@ class MyWebService(object):
       my_file.writelines("\n") 
   
 
-      my_file = open("copy.txt", "r") 
+      my_file = open("copy.txt", "r") #test
       fileData = my_file.readlines()
       my_file.close() 
       return fileData
