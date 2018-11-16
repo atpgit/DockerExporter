@@ -1,0 +1,2 @@
+#Helper Docker Exporter Started
+containers_total_count 1
